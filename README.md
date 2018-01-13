@@ -1,4 +1,4 @@
-## Haoze Li | 李昊澤
+## Haoze Li :on: 李昊澤
 
 You can use the [editor on GitHub](https://github.com/haozelinyu/Haoze-Li/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
